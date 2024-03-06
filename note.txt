@@ -1,0 +1,5 @@
+Создать виртуальное окружение на python
+mkdir virtualenv  // Папка, где будет находиться виртуальное окружение
+cd virtualenv
+python3 -m venv venv // venv - название папки
+source venv/bin/activate
